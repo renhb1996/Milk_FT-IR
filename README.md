@@ -8,6 +8,6 @@ Milk heat treatments_FT-IR
 
 ## How to use
 ```R
-# Model load
+# Model loading
 load("./Models.RData")
 ```
