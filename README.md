@@ -11,3 +11,5 @@ Milk heat treatments_FT-IR
 # Model loading
 load("./Models.RData")
 ```
+## Figure
+![image](https://github.com/renhb1996/Milk_FT-IR/blob/master/figure.png)
